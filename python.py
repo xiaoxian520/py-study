@@ -16,8 +16,8 @@ def drawSnake(rad, angle, len, neckrad):
 
 
 def main():
-    turtle.setup(1300, 800, 50, 50)
-    pythonsize=30
+    turtle.setup(1300, 800, 0, 0)
+    pythonsize=20
     turtle.pensize(pythonsize)
     turtle.pencolor("green")
     turtle.seth(-40)
